@@ -21,7 +21,7 @@ public class Juego {
 			numIntento = sc.nextInt();
 			if((numIntento <= 0) || (numIntento > 10)) {
 				System.out.println("Ingrese un numero valido, entre 1 y 10");
-			}else {
+			}else if(numIntento!=randomNum){
 				System.out.println("Aun no, intente nuevamente...");
 			}			
 		}while(numIntento!=randomNum);

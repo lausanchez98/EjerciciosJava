@@ -1,7 +1,9 @@
 package flujo;
 //imports
 import java.util.Scanner;
+
 public class Practica1 {
+	
 	public static void main(String[] args) {
 		//variables globales
 		Scanner sc = new Scanner(System.in);
@@ -25,5 +27,7 @@ public class Practica1 {
 //		}else {
 //			System.out.println("Ahi viene el SAT. Pasa al afore.");
 //		}
+		
 	}//main
+	
 }//class

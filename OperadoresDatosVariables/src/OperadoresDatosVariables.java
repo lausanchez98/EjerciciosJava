@@ -1,4 +1,5 @@
 public class OperadoresDatosVariables {
+	
 	public static void main(String[] args) {
 		// Todo lo que se ejecute, se pone dentro de main
 		/* Tipos de datos
@@ -171,5 +172,7 @@ public class OperadoresDatosVariables {
 		//NOT !
 		boolean opNot = !(num5 > num6 || num6 >= num7);
 		System.out.println(opNot);
+		
 	}//main
+	
 }//class

@@ -64,5 +64,6 @@ public class IngresoDatos {
 		 * 
 		 *
 		*/
+		sc.close();
 	}//main
 }//class
